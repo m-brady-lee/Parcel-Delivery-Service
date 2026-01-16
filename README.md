@@ -43,11 +43,11 @@ View the status of all packages at a given time
 
 Status states include:
 
-At Depot
+Heading to Depot
 
 Loaded
 
-En Route
+In Route
 
 Delivered
 
